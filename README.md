@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Saifuddin Siddique</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-- 🔭 I’m currently working on [Open Source](Open Source)
+- 🔭 I’m currently working on E-Commerce project (Reveza).
 
 - 🌱 I’m currently learning **Kubernetes, AWS Services**
 
-- 👯 I’m looking to collaborate on [Open Source](Open Source)
+- 🤝 I’m looking for help with Ruby on rails opportunities.
 
-- 🤝 I’m looking for help with [Open Source](Open Source)
+- 💬 Ask me about **Frontend, Backend, Databses, DevOps, AWS**
 
-- 💬 Ask me about **Frontend, Backend, DevOps, AWS**
+- 📫 How to reach me **saifsiddique.tech@gmail.com**
 
-- 📫 How to reach me **saifsiddique261@gmail.com**
-
-- ⚡ Fun fact **I think it is easy for me to calm a tough situation.**
+- ⚡ Fun fact **I think it is easy to solve a tough problem when you break it into small pieces.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
